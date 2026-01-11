@@ -4,3 +4,6 @@ scikit-learn
 matplotlib
 seaborn
 nltk
+mlflow
+python-dotenv
+dagshub
