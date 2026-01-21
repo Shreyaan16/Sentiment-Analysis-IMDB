@@ -8,3 +8,6 @@ mlflow
 python-dotenv
 dagshub
 boto3
+dvc
+dvc[s3]
+awscli
