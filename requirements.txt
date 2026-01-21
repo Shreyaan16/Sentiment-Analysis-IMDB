@@ -7,3 +7,4 @@ nltk
 mlflow
 python-dotenv
 dagshub
+boto3
