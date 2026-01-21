@@ -1,4 +1,0 @@
-[core]
-    remote = capstone_remote
-['remote "capstone_remote"']
-    url = s3://capstone-proj-bucket-all-files
